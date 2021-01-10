@@ -5,3 +5,81 @@
   background-position: center;
   padding-bottom: 30em;
 }
+
+p {
+  letter-spacing: 0.15em;
+}
+
+.sobre-mi {
+  font-family: "Open Sans" sans-serif;
+}
+
+.underline {
+  text-decoration: underline;
+}
+
+.colore {
+  background-color: #660066;
+}
+
+.font {
+  font-family: "Open Sans" sans-serif;
+}
+
+.osw {
+  font-family: "Oswald";
+}
+
+section,
+footer {
+  margin-top: 72px;
+  text-align: center;
+}
+footer i {
+  margin: 0.25em 0.25em 0.5em 0.25em;
+  font-size: 2.5em;
+  color: white;
+}
+
+footer {
+  padding: 50px;
+  color: white;
+}
+
+.position {
+  margin: 0;
+  position: absolute;
+  top: 65%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+hr,
+.negro {
+  height: 2px;
+  background-color: black;
+  width: 15%;
+}
+
+hr,
+.blanco {
+  height: 2px;
+  background-color: white;
+  width: 15%;
+}
+
+.carousel-indicators li {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background-color: grey;
+}
+.carousel-indicators {
+  top: 150px;
+}
+
+p,
+.carousel {
+  margin-bottom: 0rem;
+}
